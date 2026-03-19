@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://unalome.ai/unalome-white-full.svg" alt="Unalome.ai" height="48" />
+  <img src="unalome-white-full.svg" alt="Unalome.ai" height="48" />
 </p>
 
 <p align="center">
